@@ -1,0 +1,11 @@
+.student{
+    background-color: red;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+        }
+       body{
+        background: url('https://img.freepik.com/free-vector/blue-curve-background_53876-113112.jpg');
+background-repeat:no-repeat;
+background-size: cover;
+       }
